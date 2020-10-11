@@ -1,0 +1,27 @@
+.news-item{
+    color: black;
+
+}
+
+button{
+    height: 15px;
+    width: 15px;
+    background-color: transparent;
+    border: none;
+}
+
+p{
+    text-align: left;
+}
+
+.first-row{
+    height: 50%;
+    font-size: 1em;
+}
+
+.second-row{
+    height: 50%;
+    font-size: 0.7em;
+}
+
+
